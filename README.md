@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Alahira Jeffrey and I am not your typical developer
 
 <!--
 **alahirajeffrey/alahirajeffrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
