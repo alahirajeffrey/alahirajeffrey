@@ -1,6 +1,9 @@
 ### Hi there 👋 My name is Alahira Jeffrey and I am not your typical developer
 
+### I am an agricultural economist by day and a developer by night
+
 ### I code in Python, Javascript and I am currently learning to build smart contracts using solidity.
+
 <!--
 **alahirajeffrey/alahirajeffrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
