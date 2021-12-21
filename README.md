@@ -1,8 +1,14 @@
-### Hi there 👋 My name is Alahira Jeffrey and I am a self taught developer. I graduated from a university in the north eastern part of Nigeria with a degree in agricultural economics and I am currently rounding up my masters in the same field.
+### Brief Introduction
 
-### My stack include python (flask and django) and javascript (express), all of which i use in building backend systems and APIs
+Hi there 👋 My name is Alahira Jeffrey and I am a self taught developer. I graduated from a university in the north eastern part of Nigeria with a degree in agricultural economics and I am currently rounding up my masters in the same field.
 
-### My major goals for 2022 include
+### Stack
+
+My stack include python (flask and django) and javascript (express), all of which i use in building backend systems and APIs
+
+### Goals for 2022
+
+My major goals for 2022 include
 - learning react and writing the frontend for my backend projects
 - completing a few more certificate on [freecodecamp](https://www.freecodecamp.org/learn)
 - learning about web3 as well as learning to write smart contracts with solidity
