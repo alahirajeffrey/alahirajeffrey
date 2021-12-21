@@ -9,6 +9,11 @@
 - completing my masters programme abd if possible enrolling for my doctorate degree
 - starting and completing the zuri internship programme
 
+### Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alahirajeffrey)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alahirajeffrey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **alahirajeffrey/alahirajeffrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
