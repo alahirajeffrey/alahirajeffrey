@@ -8,12 +8,15 @@ My stack include python (flask and django) and javascript (express), all of whic
 
 ### Goals for 2022
 
-My major goals for 2022 include
+My major goals for 2022 in no particular order include
 - learning react and writing the frontend for my backend projects
 - completing a few more certificate on [freecodecamp](https://www.freecodecamp.org/learn)
 - learning about web3 as well as learning to write smart contracts with solidity
 - completing my masters programme abd if possible enrolling for my doctorate degree
 - starting and completing the zuri internship programme
+- writing cleaner and more efficient code 
+- writing better tests
+- learning CI/CD
 
 ### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alahirajeffrey)](https://github.com/anuraghazra/github-readme-stats)
