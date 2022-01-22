@@ -4,7 +4,7 @@ Hi there 👋 My name is Alahira Jeffrey and I am a self taught developer. I gra
 
 ### Stack
 
-My stack include python (flask and django) and javascript (express), all of which i use in building backend systems and APIs
+My stack include python (flask and fastapi) and javascript (express), all of which i use in building backend systems and APIs
 
 ### Goals for 2022
 
