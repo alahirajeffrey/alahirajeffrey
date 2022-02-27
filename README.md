@@ -1,7 +1,6 @@
 ### Brief Introduction
 
 Hi there 👋 My name is Alahira Jeffrey and I am a self taught backend developer. 
-
 ### Stack
 
 My stack include python (flask and fastapi) and javascript (express), all of which i use in building backend systems and APIs.
