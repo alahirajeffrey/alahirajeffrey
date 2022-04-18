@@ -3,7 +3,7 @@
 Hi there 👋 My name is Alahira Jeffrey and I am a self taught backend developer. 
 
 ### Stack
-My stack include nodejs(express) and python(flask and fastapi), mongodb and postgres sql for data persistence, git and github for version control, heroku for deployment.
+My stack include nodejs(express) and python(flask and streamlit), mongodb and postgreSQL for data persistence, git and github for version control, heroku for deployment.
 
 ### Goals for 2022
 
