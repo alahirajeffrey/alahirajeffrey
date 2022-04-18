@@ -8,11 +8,10 @@ My stack include nodejs(express) and python(flask and fastapi), mongodb and post
 ### Goals for 2022
 
 My major goals for 2022 in no particular order include
-- learning react and writing the frontend for my backend projects
+- learning react
 - completing a few more certificates on [freecodecamp](https://www.freecodecamp.org/learn)
 - learning about web3 as well as learning to write smart contracts with solidity
 - completing my masters programme and if possible enrolling for my doctorate degree
-- starting and completing the zuri internship programme
 - writing cleaner and more efficient code 
 - writing better tests
 - learning CI/CD
