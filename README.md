@@ -8,13 +8,13 @@ My stack include nodejs(express) and python(flask and streamlit), mongodb and po
 ### Goals for 2022
 
 My major goals for 2022 in no particular order include
-- learning react
-- completing a few more certificates on [freecodecamp](https://www.freecodecamp.org/learn)
-- learning about web3 as well as learning to write smart contracts with solidity
-- completing my masters programme and if possible enrolling for my doctorate degree
-- writing cleaner and more efficient code 
-- writing better tests
-- learning CI/CD
+- Learning a bit of frontened
+- Completing a few more certificates on [freecodecamp](https://www.freecodecamp.org/learn)
+- Learning about web3 as well as learning to write smart contracts with solidity
+- Completing my masters programme and if possible enrolling for my doctorate degree
+- Writing cleaner and more efficient code 
+- Writing better tests
+- Learning CI/CD
 
 Link to portfolio: https://alahirajeffrey.vercel.app
 
