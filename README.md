@@ -3,7 +3,7 @@
 Hi there 👋 My name is Alahira Jeffrey and I am a self taught backend developer. 
 
 ### Stack
-My stack include nodejs(express, nestjs) and python, mongodb and postgreSQL for data persistence, git and github for version control, heroku for deployment.
+My stack include nodejs(express, nestjs) and python, mongodb and postgreSQL for data persistence, git and github for version control.
 
 ### Goals for 2022
 
@@ -19,3 +19,5 @@ Link to portfolio: https://alahirajeffrey.vercel.app
 
 ### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alahirajeffrey)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alahirajeffrey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
