@@ -1,9 +1,9 @@
 ### Brief Introduction
 
-Hi there 👋 My name is Alahira Jeffrey and I am a self taught backend developer. 
+Hi there 👋 My name is Alahira Jeffrey and I am a backend developer. 
 
 ### Stack
-My stack include nodejs(express, nestjs) and python, mongodb and postgreSQL for data persistence, git and github for version control.
+My stack include nodejs(express, nestjs), typescript and python, mongodb and postgreSQL for data persistence, git and github for version control.
 
 ### Goals for 2022
 
