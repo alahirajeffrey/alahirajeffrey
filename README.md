@@ -22,4 +22,4 @@ Link to portfolio: https://alahirajeffrey.vercel.app
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alahirajeffrey&layout=compact&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alahirajeffrey)](https://github.com/anuraghazra/github-readme-stats)
