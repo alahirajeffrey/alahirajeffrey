@@ -3,7 +3,7 @@
 Hi there 👋 My name is Alahira Jeffrey and I am a backend developer. 
 
 ### Stack
-My stack include nodejs(express, nestjs), typescript and python, mongodb and postgreSQL for data persistence, git and github for version control.
+My stack include nodejs(express, nestjs), typescript and python, mongodb and postgreSQL for data persistence, git and github for version control, graphql.
 
 ### Goals for 2022
 
@@ -14,8 +14,6 @@ My major goals for 2022 in no particular order include
 - Writing cleaner and more efficient code 
 - Writing better tests
 - learning AWS devops
-
-Link to portfolio: https://alahirajeffrey.vercel.app
 
 ### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alahirajeffrey)](https://github.com/anuraghazra/github-readme-stats)
