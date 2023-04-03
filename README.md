@@ -8,10 +8,10 @@ My stack include nodejs(express, nestjs), typescript and python, mongodb and pos
 ### Goals for 2023
 
 My major goals for 2023 in no particular order include
-- Learning AWS (EC2, RDS, S3, DynamoDB, lambda)
+- Learning system design.
 - Completing a few more certificates on [freecodecamp](https://www.freecodecamp.org/learn)
 - Writing cleaner and more efficient code 
-- learning AWS devops
+- learning the basics of AWS devops
 
 ### Stats
 [![Alahira's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alahirajeffrey)](https://github.com/anuraghazra/github-readme-stats)
