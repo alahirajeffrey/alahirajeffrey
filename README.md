@@ -14,6 +14,6 @@ My major goals for 2023 in no particular order include
 - learning the basics of AWS devops
 
 ### Stats
-[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alahirajeffrey&hide=Jupyter Notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alahirajeffrey?hide=Jupyter Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alahirajeffrey)](https://github.com/anuraghazra/github-readme-stats)
