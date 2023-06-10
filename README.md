@@ -5,6 +5,8 @@ Hi there 👋 My name is Alahira Jeffrey and I am a backend developer.
 ### Stack
 My stack include nodejs(express, nestjs), typescript and python, mongodb and postgreSQL for data persistence, git and github for version control. I am also familiar with building graphql APIs
 
+[![node][https://nodejs.org/en]][node-url]
+
 ### Goals for 2023
 
 My major goals for 2023 in no particular order include
