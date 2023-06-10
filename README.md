@@ -4,7 +4,7 @@ Hi there 👋 My name is Alahira Jeffrey and I am a backend developer.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alahirajeffrey" alt="alahirajeffrey" /></a> </p>
 
-📝 I regularly write articles on [https://dev.to/alahirajeffrey](https://dev.to/alahirajeffrey)
+📝 I regularly write articles on [dev.to](https://dev.to/alahirajeffrey)
 
 <h3 align="left">Connect with me:</h3>
 
