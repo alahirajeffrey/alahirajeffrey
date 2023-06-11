@@ -1,20 +1,16 @@
-### Brief Introduction
+### Hey there 👋 
 
-Hi there 👋 My name is Alahira Jeffrey and I am a backend developer. 
+<p align="left">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alahirajeffrey" alt="alahirajeffrey" /></a> </p>
+My name is Alahira Jeffrey and I am a agricultura economist turned backend developer. I love building and writing on backend and tech related stuff in general. 
 
-📝 I regularly write articles on [dev.to](https://dev.to/alahirajeffrey)
+Interested in learning more about backend and tech related matters? Simply head to my profile on [dev.to](https://dev.to/alahirajeffrey). 
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
 
-<a href="https://dev.to/alahirajeffrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alahirajeffrey" height="30" width="40" /></a>
-
-<a href="https://twitter.com/ogidi_ogede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ogidi_ogede" height="30" width="40" /></a>
-
-<a href="https://linkedin.com/in/alahirajeffrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alahirajeffrey" height="30" width="40" /></a>
+<a href="https://dev.to/alahirajeffrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="alahirajeffrey" height="30" width="40" /></a> <a href="https://twitter.com/ogidi_ogede" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ogidi_ogede" height="30" width="40" /></a> <a href="https://linkedin.com/in/alahirajeffrey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alahirajeffrey" height="30" width="40" /></a>
 
 </p>
 
