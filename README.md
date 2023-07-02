@@ -20,5 +20,3 @@ Interested in learning more about backend and tech related matters? Simply head 
 
 ### Stats
 [![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alahirajeffrey&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alahirajeffrey)](https://github.com/anuraghazra/github-readme-stats)
