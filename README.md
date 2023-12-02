@@ -5,8 +5,6 @@
 My name is Alahira Jeffrey and I am an agricultural economist turned backend software developer. I love building and writing on backend and tech related stuff in general. I am currently learning the following skills:
 
 - AWS devops
-- Golang programming
-- Mobile development with react-native
 
 Interested in learning more about backend and tech related matters? Simply head to my profile on [dev.to](https://dev.to/alahirajeffrey). 
 
