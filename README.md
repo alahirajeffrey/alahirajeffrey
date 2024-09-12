@@ -2,11 +2,12 @@
 
 <p align="left">
 
-My name is Alahira Jeffrey and I am an agricultural economist turned backend software developer. I love building and writing on backend and tech related stuff in general. My current goals are to learn the following:
+My name is Alahira Jeffrey and I am an agricultural economist turned backend software developer. I love building and writing on backend and tech related stuff in general. My current learning goals are:
 
 - Devops
 - Data structures and Algorithms
-- Blockchain development  
+- Rust programming
+- Mobile development
 
 Interested in learning more about backend and tech related matters? Simply head to my profile on [dev.to](https://dev.to/alahirajeffrey). 
 
