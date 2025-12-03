@@ -6,7 +6,7 @@ My name is Alahira Jeffrey and I am an agricultural economist turned backend sof
 
 - Cloud architecture
 - Getting familiar with data structures and algorithms
-- .NET programming
+- Golang programming
 - Software design patterns
 
 Interested in learning more about backend and tech related matters? Simply head to my profile on [dev.to](https://dev.to/alahirajeffrey). 
